@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javassist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/xom-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/swt-debug.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
